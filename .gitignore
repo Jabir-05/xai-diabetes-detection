@@ -6,3 +6,4 @@ __pycache__/
 .streamlit/secrets.toml
 batch_predictions.csv
 diabetes_risk_report.pdf
+venv
